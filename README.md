@@ -22,8 +22,9 @@
 <br>  
   
 ## Olá, me chamo Gabriel!
-  - 🔭 Atualmente, estou trabalhando num pequeno <a href="https://gothmate.github.io/" target="_blank">portifólio</a>
+  
  - 🌱 Aprendendo Desenvolvimento Web.
+ - 🔭 Atualmente, estou trabalhando num pequeno <a href="https://gothmate.github.io/" target="_blank">portifólio</a>
  - 👯 Desejo colaborar em pequenos projetos Web e Python.
  - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/gabriel-correia-8b870911/">Linkedin</a> 
  - 😄 Pronomes: Sr., Cara, Falaeh, Você, o que te deixar mais confortável.
