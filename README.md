@@ -22,10 +22,9 @@
 <br>  
   
 ## Olá, me chamo Gabriel!
-
-- 🔭 Atualmente, estou trabalhando no meu portifólio
-- 🌱 Aprendendo Desenvolvimento Web
-- 👯 Deseja colaborar em pequenos projetos Web e Python
-- 📫 Me encontre em: https://www.linkedin.com/in/gabriel-correia-8b870911/
-- 😄 Pronouns: Sr., Cara, Falaeh, Você, o que te deixar mais confortável.
-- ⚡ Fato interessante: Sou mais velho do que você pensa, e mais novo do que você acha, agora que leu isso.
+  - 🔭 Atualmente, estou trabalhando num pequeno <a href="gothmate.github.io/">portifólio</a>
+ - 🌱 Aprendendo Desenvolvimento Web.
+ - 👯 Desejo colaborar em pequenos projetos Web e Python.
+ - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/gabriel-correia-8b870911/">Linkedin</a> 
+ - 😄 Pronomes: Sr., Cara, Falaeh, Você, o que te deixar mais confortável.
+ - ⚡ Fato interessante: Sou mais velho do que você pensa, e mais novo do que você acha, agora que leu isso.
