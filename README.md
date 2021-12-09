@@ -23,6 +23,7 @@
 <br>  
   
 ## Olá, me chamo Gabriel!
+  ## Meu potifólio: <a href="https://gothmate.github.io">Gothmate</a>
   
  - 🌱 Aprendendo Desenvolvimento Web.
  - 🔭 Atualmente, estou trabalhando num pequeno <a href="https://gothmate.github.io/" target="_blank">portifólio</a>
