@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on a litle portifolio
 - 🌱 I’m currently learning Web Devoloping
 - 👯 I’m looking to collaborate on small web or python projects
-- 📫 How to reach me: https://www.linkedin.com/in/gabriel-correia-8b870911/
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/gabriel-correia-dev/">Linkedin</a>
 - 😄 Pronouns: Mr., Guy, Hey, You, what makes you feel comfortable.
-- ⚡ Fun fact: I'm older than you think and younger than start thinking right now.
+- ⚡ Fun fact: I'm older than you think and younger than you start thinking right now.
 
 <div>
   <a href="https://github.com/gothmate">
@@ -28,6 +28,6 @@
  - 🌱 Aprendendo Desenvolvimento Web.
  - 🔭 Atualmente, estou trabalhando num pequeno <a href="https://gothmate.github.io/" target="_blank">portifólio</a>
  - 👯 Desejo colaborar em pequenos projetos Web e Python.
- - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/gabriel-correia-8b870911/">Linkedin</a> 
+ - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/gabriel-correia-dev/">Linkedin</a> 
  - 😄 Pronomes: Sr., Cara, Falaeh, Você, o que te deixar mais confortável.
  - ⚡ Fato interessante: Sou mais velho do que você pensa, e mais novo do que você acha, agora que leu isso.
