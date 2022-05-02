@@ -1,6 +1,6 @@
 # Hey, I'm Gabriel!
 
-- 🔭 I’m currently working on a litle <a href="https://gothmate.github.io/" target="_blank">portifolio</a>.
+- 🔭 My litle <a href="https://gothmate.github.io/" target="_blank">portifolio</a>.
 - 🌱 I’m currently learning Web Devoloping
 - 👯 I’m looking to collaborate on small web or python projects
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/gabriel-correia-dev/">Linkedin</a>
