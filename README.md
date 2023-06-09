@@ -28,7 +28,7 @@
   ## Meu portifólio: <a href="https://gothmate.000webhostapp.com" target="_blank">Gothmate</a>
   
  - 🌱 Aprendendo Desenvolvimento Web.
- - 🔭 Atualmente, estou trabalhando num pequeno <a href="https://gothmate.github.io/" target="_blank">portifólio</a>
+ - 🔭 Atualmente, estou trabalhando num pequeno <a href="https://gothmate.000webhostapp.com" target="_blank">portifólio</a>
  - 👯 Desejo colaborar em pequenos projetos Web e Python.
  - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/gabriel-correia-dev/">Linkedin</a> 
  - 😄 Pronomes: Sr., Cara, Falaeh, Você, o que te deixar mais confortável.
