@@ -1,7 +1,7 @@
 # Hey, I'm Gabriel!
 
-- 🔭 My litle <a href="https://gothmate.000webhostapp.com/" target="_blank">portifolio</a>.
-- 🌱 I’m currently learning Web Devoloping
+- 🔭 My litle <a href="https://gothmate.github.io/gothmate_portifolio/" target="_blank">portifolio WIP</a>.
+- 🌱 Graduated in computer networks and upgrading my web development skills
 - 👯 I’m looking to collaborate on small web or python projects
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/gabriel-correia-dev/">Linkedin</a>
 - 😄 Pronouns: Mr., Guy, Hey, You, what makes you feel comfortable.
@@ -27,8 +27,8 @@ https://github-readme-stats.vercel.app/api
 ## Olá, me chamo Gabriel!
   ## Meu portifólio: <a href="https://gothmate.000webhostapp.com" target="_blank">Gothmate</a>
   
- - 🌱 Aprendendo Desenvolvimento Web.
- - 🔭 Atualmente, estou trabalhando num pequeno <a href="https://gothmate.000webhostapp.com" target="_blank">portifólio</a>
+ - 🌱 Formado em Redes de Computadores e dando um upgrade nos conhecimentos de desenvolvimento web.
+ - 🔭 Atualmente, estou trabalhando num pequeno <a href="https://gothmate.github.io/gothmate_portifolio/" target="_blank">portifólio</a>
  - 👯 Desejo colaborar em pequenos projetos Web e Python.
  - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/gabriel-correia-dev/">Linkedin</a> 
  - 😄 Pronomes: Sr., Cara, Falaeh, Você, o que te deixar mais confortável.
